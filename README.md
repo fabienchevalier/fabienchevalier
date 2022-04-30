@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabienchevalier
-- 👀 I’m interested in DevOps and system administration 
+- 👀 I’m interested in DevOps and SysOps
 - 🌱 I’m currently learning network and system administration at H3 Campus 
 - 📫 How to reach me : https://www.fchevalier.net / contact@fchevalier.net
 
