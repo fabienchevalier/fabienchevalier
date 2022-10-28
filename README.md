@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabienchevalier
-- 👀 I’m interested in DevOps and SysOps
-- 🌱 I’m currently learning network and system administration at H3 Campus 
+- 👀 I’m interested in DevOps and Linux administration
+- 🏢 I'm doing an internship as a DevOps Enginner at Claranet France
 - 📫 How to reach me : https://www.fchevalier.net / contact@fchevalier.net
 
 <!---
