@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at @claranet<br><br>🌱 I’m currently learning **Rust and Python**<br><br>👯 I’m looking to collaborate on **any open-sourced project**<br><br>💬 Ask me about **Ansible, Terraform and AWS Cloud**<br><br>📫 How to reach me **contact@fchevalier.net**
+🔭 I’m currently working at @claranet as a DevOps engineer.<br><br>🌱 I’m currently learning **Rust and Python**<br><br>👯 I’m looking to collaborate on **any open-sourced project**<br><br>💬 Ask me about **Ansible, Terraform and AWS Cloud**<br><br>📫 How to reach me **contact@fchevalier.net**
 
 
 ## 🌐 Socials:
