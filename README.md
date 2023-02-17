@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at @claranet as a DevOps engineer.<br><br>🌱 I’m currently learning **Rust and how to code RESTful API**<br><br>👯 I’m looking to collaborate on **any open-sourced project**<br><br>💬 Ask me about **CloudFormation, Ansible, Terraform and AWS Cloud.**<br><br>📫 How to reach me **contact@fchevalier.net**
+🔭 I’m currently working at @claranet as a DevOps engineer.<br><br>🌱 I’m currently learning **Python and how to code efficient RESTful APIs**<br><br>👯 I’m looking to collaborate on **any open-sourced project**<br><br>💬 Ask me about **CloudFormation, Ansible, Terraform and AWS Cloud.**<br><br>📫 How to reach me **contact@fchevalier.net**
 
 
 ## 🌐 Socials:
