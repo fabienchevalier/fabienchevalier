@@ -1,23 +1,3 @@
-<div align="center">
-  <img height="150" src="https://fchevalier.net/img/author_hu3374ca10510a4698224be502942bc89f_4810_288x288_fill_box_center_3.png"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/fabche/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fabienchevalier.fabienchevalier&"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋</h1>
 
 ###
