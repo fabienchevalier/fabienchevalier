@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🚀 DevOps Engineer at @claranet, ensuring smooth operations and continuous improvement.<br>📚 Strengthening backend development skills by learning API programming with Go.<br>🎯 Aiming to create meaningful solutions by fixing more than I break.<br>🎶 Passionate musician, finding harmony both on and off stage.</p>
+<p align="left">🚀 DevOps Engineer at @PylTech, ensuring smooth operations and continuous improvement.<br>📚 Strengthening backend development skills by learning API programming with Go.<br>🎯 Aiming to create meaningful solutions by fixing more than I break.<br>🎶 Passionate musician, finding harmony both on and off stage.</p>
 
 ###
 
